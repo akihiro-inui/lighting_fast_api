@@ -31,3 +31,8 @@ docker build -t lightning_fast_api_image . && docker run -p 80:80 -d --name ligh
 
 
 ## Fork and star this repo! Thanks!
+
+
+## Swagger doc
+If you managed to run the application, you should be able to access to `localhost:80` and see the Swagger documentation like this.
+![alt text](docs/swagger.png "Swagger")
